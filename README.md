@@ -32,6 +32,6 @@ The **Contact Book** is a python project that runs through the terminal with the
 
 ### 📚 Business Rules
 
-- ▶️ The application must start in the terminal with a list of options of what can be done
+- ✅ The application must start in the terminal with a list of options of what can be done
 
-- ▶️ The application must allow the user to interact through the choices by typing the options into the terminal
+- ✅ The application must allow the user to interact through the choices by typing the options into the terminal
